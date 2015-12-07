@@ -1,6 +1,6 @@
 {
   "name": "electron-windows-updater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "implementation of auto-updater from osx for windows",
   "main": "index.js",
   "scripts": {
