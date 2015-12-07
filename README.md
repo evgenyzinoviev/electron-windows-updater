@@ -2,6 +2,11 @@
 
 This module implements `auto-updater` logic for OS X on Windows.
 
+Installation:
+```
+npm install electron-windows-updater
+```
+
 This is how you can use it:
 
 ```
