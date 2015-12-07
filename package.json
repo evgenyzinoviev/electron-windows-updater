@@ -1,0 +1,25 @@
+{
+  "name": "electron-windows-updater",
+  "version": "1.0.0",
+  "description": "implementation of auto-updater from osx for windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgenyzinoviev/electron-windows-updater.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Evgeny Zinoviev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgenyzinoviev/electron-windows-updater/issues"
+  },
+  "homepage": "https://github.com/evgenyzinoviev/electron-windows-updater#readme",
+  "dependencies": {
+    "temp": "^0.8.3"
+  }
+}
