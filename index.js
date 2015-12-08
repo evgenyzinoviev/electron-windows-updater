@@ -68,7 +68,7 @@ function download(src, dst) {
     })
     
     request.on('error', function(error) {
-      fs.unlink(tempName)
+      fs.unlink(dst)
       reject(error)
     })
   })
