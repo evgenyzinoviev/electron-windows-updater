@@ -15,4 +15,4 @@ const autoUpdater = require(process.platform == 'win32' ? 'electron-windows-upda
 
 Everything (should) work like on OS X: http://electron.atom.io/docs/v0.34.0/api/auto-updater/
 
-It is very alpha, it was written in a couple of hours and it doesn't implement cool security™ features like signature checking and so on (yet) and was only tested on Windows 8.1.
+It is very alpha, it was written in a couple of hours and it doesn't implement cool security™ features like signature checking and so on (yet) and was only tested on two machines running Windows 8.1 and Windows 10.
